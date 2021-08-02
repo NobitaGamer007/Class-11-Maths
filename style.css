@@ -1,0 +1,25 @@
+input {
+    border: 3px solid #32e17c;
+    height: 40px;
+    width: 300px;
+    border-radius: 60px;
+    padding: 0px 10px;
+    position: relative;
+    left: 1000px;
+    bottom: 180px;
+}
+i{
+position:relative;	
+right:px;
+top:px;
+left:970px;
+bottom:180px;
+
+}
+img{
+	height:250px;
+	width:;
+	position:relative;
+	left:0;
+	bottom:60;
+}
